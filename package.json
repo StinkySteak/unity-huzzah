@@ -1,0 +1,15 @@
+{
+  "name": "com.stinkysteak.com.stinkysteak.huzzah",
+  "version": "0.1.0",
+  "displayName": "Huzzah",
+  "description": "Huzzah is a single C# file that you drop into your .NET Console Application to implement a basic form of command line argument parsing. It includes support for long and short switches, verb commands, default values and required values.",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Stinkysteak",
+    "email": "stinkysteak@steaksoft.com",
+    "url": "https://steaksoft.net"
+  }
+}
